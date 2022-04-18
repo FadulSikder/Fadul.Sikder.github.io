@@ -80,9 +80,7 @@ collection: portfolio
 
 \[38\]Feng Mi, Zhuoyi Wang, Chen Zhao, Jinghui Guo, Fawaz Ahmed, and Latifur Khan. 2021. VSCL: Automating Vulnerability Detection in Smart Contracts with Deep Learning. In _2021 IEEE International Conference on Blockchain and Cryptocurrency (ICBC)_, 1–9. DOI:https://doi.org/10.1109/ICBC51069.2021.9461050
 
-\[39\]
-
-Pouyan Momeni, Yu Wang, and Reza Samavi. 2019. Machine Learning Model for Smart Contracts Security Analysis. In _2019 17th International Conference on Privacy, Security and Trust (PST)_, 1–6. DOI:https://doi.org/10.1109/PST47121.2019.8949045
+\[39\]Pouyan Momeni, Yu Wang, and Reza Samavi. 2019. Machine Learning Model for Smart Contracts Security Analysis. In _2019 17th International Conference on Privacy, Security and Trust (PST)_, 1–6. DOI:https://doi.org/10.1109/PST47121.2019.8949045
 
 \[40\]K. Lakshmi Narayana and K. Sathiyamurthy. 2021. Automation and smart materials in detecting smart contracts vulnerabilities in Blockchain using deep learning. _Materials Today: Proceedings_ (April 2021). DOI:https://doi.org/10.1016/j.matpr.2021.04.125
 
