@@ -4,75 +4,43 @@ excerpt: "Short description of portfolio item number 1<br/><img src='/images/500
 collection: portfolio
 ---
 
-\[1\] 
-Rachit Agarwal, Tanmay Thapliyal, and Sandeep Kumar Shukla. 2022. Vulnerability and Transaction Behavior Based Detection of Malicious Smart Contracts. In _Cyberspace Safety and Security_ (Lecture Notes in Computer Science), Springer International Publishing, Cham, 79–96. DOI:https://doi.org/10.1007/978-3-030-94029-4\_6
+\[1\]Rachit Agarwal, Tanmay Thapliyal, and Sandeep Kumar Shukla. 2022. Vulnerability and Transaction Behavior Based Detection of Malicious Smart Contracts. In _Cyberspace Safety and Security_ (Lecture Notes in Computer Science), Springer International Publishing, Cham, 79–96. DOI:https://doi.org/10.1007/978-3-030-94029-4\_6
 
-\[2\] 
-Elvira Albert, Jesús Correas, Pablo Gordillo, Guillermo Román-Díez, and Albert Rubio. 2019. SAFEVM: a safety verifier for Ethereum smart contracts. In _Proceedings of the 28th ACM SIGSOFT International Symposium on Software Testing and Analysis_. Association for Computing Machinery, New York, NY, USA, 386–389. Retrieved February 26, 2022 from https://doi.org/10.1145/3293882.3338999
+\[2\]Elvira Albert, Jesús Correas, Pablo Gordillo, Guillermo Román-Díez, and Albert Rubio. 2019. SAFEVM: a safety verifier for Ethereum smart contracts. In _Proceedings of the 28th ACM SIGSOFT International Symposium on Software Testing and Analysis_. Association for Computing Machinery, New York, NY, USA, 386–389. Retrieved February 26, 2022 from https://doi.org/10.1145/3293882.3338999
 
-\[3\]
+\[3\]Monika di Angelo and Gernot Salzer. 2019. A Survey of Tools for Analyzing Ethereum Smart Contracts. In _2019 IEEE International Conference on Decentralized Applications and Infrastructures (DAPPCON)_, 69–78. DOI:https://doi.org/10.1109/DAPPCON.2019.00018
 
-Monika di Angelo and Gernot Salzer. 2019. A Survey of Tools for Analyzing Ethereum Smart Contracts. In _2019 IEEE International Conference on Decentralized Applications and Infrastructures (DAPPCON)_, 69–78. DOI:https://doi.org/10.1109/DAPPCON.2019.00018
+\[4\]Nami Ashizawa, Naoto Yanai, Jason Paul Cruz, and Shingo Okamura. 2021. Eth2Vec: Learning Contract-Wide Code Representations for Vulnerability Detection on Ethereum Smart Contracts. (January 2021). Retrieved February 28, 2022 from https://arxiv.org/abs/2101.02377v2
 
-\[4\]
+\[5\]Rabia Musheer Aziz, Mohammed Farhan Baluch, Sarthak Patel, and Abdul Hamid Ganie. 2022. LGBM: a machine learning approach for Ethereum fraud detection. _Int. j. inf. tecnol._ (January 2022). DOI:https://doi.org/10.1007/s41870-022-00864-6
 
-Nami Ashizawa, Naoto Yanai, Jason Paul Cruz, and Shingo Okamura. 2021. Eth2Vec: Learning Contract-Wide Code Representations for Vulnerability Detection on Ethereum Smart Contracts. (January 2021). Retrieved February 28, 2022 from https://arxiv.org/abs/2101.02377v2
+\[6\]Chaïmaa Benabbou and Önder Gürcan. 2021. A Survey of Verification, Validation and Testing Solutions for Smart Contracts. In _2021 Third International Conference on Blockchain Computing and Applications (BCCA)_, 57–64. DOI:https://doi.org/10.1109/BCCA53669.2021.9657040
 
-\[5\]
+\[7\]Venkata Siva Vijayendra Bhamidipati, Michael Chan, Derek Chamorro, Arpit Jain, and Ashok Murthy. 2019. Adaptive Security for Smart Contracts using High Granularity Metrics. In _Proceedings of the 3rd International Conference on Vision, Image and Signal Processing_. Association for Computing Machinery, New York, NY, USA, 1–6. Retrieved February 26, 2022 from https://doi.org/10.1145/3387168.3387214
 
-Rabia Musheer Aziz, Mohammed Farhan Baluch, Sarthak Patel, and Abdul Hamid Ganie. 2022. LGBM: a machine learning approach for Ethereum fraud detection. _Int. j. inf. tecnol._ (January 2022). DOI:https://doi.org/10.1007/s41870-022-00864-6
+\[8\]Lexi Brent, Anton Jurisevic, Michael Kong, Eric Liu, Francois Gauthier, Vincent Gramoli, Ralph Holz, and Bernhard Scholz. 2018. Vandal: A Scalable Security Analysis Framework for Smart Contracts. _arXiv:1809.03981 \[cs\]_ (September 2018). Retrieved February 28, 2022 from http://arxiv.org/abs/1809.03981
 
-\[6\]
+\[9\]Weimin Chen, Xinran Li, Yuting Sui, Ningyu He, Haoyu Wang, Lei Wu, and Xiapu Luo. 2021. SADPonzi: Detecting and Characterizing Ponzi Schemes in Ethereum Smart Contracts. _Proc. ACM Meas. Anal. Comput. Syst._ 5, 2 (June 2021), 26:1-26:30. DOI:https://doi.org/10.1145/3460093
 
-Chaïmaa Benabbou and Önder Gürcan. 2021. A Survey of Verification, Validation and Testing Solutions for Smart Contracts. In _2021 Third International Conference on Blockchain Computing and Applications (BCCA)_, 57–64. DOI:https://doi.org/10.1109/BCCA53669.2021.9657040
+\[10\]Yuchiro Chinen, Naoto Yanai, Jason Paul Cruz, and Shingo Okamura. 2020. RA: Hunting for Re-Entrancy Attacks in Ethereum Smart Contracts via Static Analysis. In _2020 IEEE International Conference on Blockchain (Blockchain)_, 327–336. DOI:https://doi.org/10.1109/Blockchain50366.2020.00048
 
-\[7\]
-
-Venkata Siva Vijayendra Bhamidipati, Michael Chan, Derek Chamorro, Arpit Jain, and Ashok Murthy. 2019. Adaptive Security for Smart Contracts using High Granularity Metrics. In _Proceedings of the 3rd International Conference on Vision, Image and Signal Processing_. Association for Computing Machinery, New York, NY, USA, 1–6. Retrieved February 26, 2022 from https://doi.org/10.1145/3387168.3387214
-
-\[8\]
-
-Lexi Brent, Anton Jurisevic, Michael Kong, Eric Liu, Francois Gauthier, Vincent Gramoli, Ralph Holz, and Bernhard Scholz. 2018. Vandal: A Scalable Security Analysis Framework for Smart Contracts. _arXiv:1809.03981 \[cs\]_ (September 2018). Retrieved February 28, 2022 from http://arxiv.org/abs/1809.03981
-
-\[9\]
-
-Weimin Chen, Xinran Li, Yuting Sui, Ningyu He, Haoyu Wang, Lei Wu, and Xiapu Luo. 2021. SADPonzi: Detecting and Characterizing Ponzi Schemes in Ethereum Smart Contracts. _Proc. ACM Meas. Anal. Comput. Syst._ 5, 2 (June 2021), 26:1-26:30. DOI:https://doi.org/10.1145/3460093
-
-\[10\]
-
-Yuchiro Chinen, Naoto Yanai, Jason Paul Cruz, and Shingo Okamura. 2020. RA: Hunting for Re-Entrancy Attacks in Ethereum Smart Contracts via Static Analysis. In _2020 IEEE International Conference on Blockchain (Blockchain)_, 327–336. DOI:https://doi.org/10.1109/Blockchain50366.2020.00048
-
-\[11\]
-
-Mojtaba Eshghie, Cyrille Artho, and Dilian Gurov. 2021. Dynamic Vulnerability Detection on Smart Contracts Using Machine Learning. In _Evaluation and Assessment in Software Engineering_ (EASE 2021), Association for Computing Machinery, New York, NY, USA, 305–312. DOI:https://doi.org/10.1145/3463274.3463348
+\[11\]Mojtaba Eshghie, Cyrille Artho, and Dilian Gurov. 2021. Dynamic Vulnerability Detection on Smart Contracts Using Machine Learning. In _Evaluation and Assessment in Software Engineering_ (EASE 2021), Association for Computing Machinery, New York, NY, USA, 305–312. DOI:https://doi.org/10.1145/3463274.3463348
 
 \[12\]
 
 Josselin Feist, Gustavo Grieco, and Alex Groce. 2019. Slither: A Static Analysis Framework For Smart Contracts. _2019 IEEE/ACM 2nd International Workshop on Emerging Trends in Software Engineering for Blockchain (WETSEB)_ (May 2019), 8–15. DOI:https://doi.org/10.1109/WETSEB.2019.00008
 
-\[13\]
+\[13\]João F. Ferreira, Pedro Cruz, Thomas Durieux, and Rui Abreu. 2020. SmartBugs: A Framework to Analyze Solidity Smart Contracts. In _2020 35th IEEE/ACM International Conference on Automated Software Engineering (ASE)_, 1349–1352.
 
-João F. Ferreira, Pedro Cruz, Thomas Durieux, and Rui Abreu. 2020. SmartBugs: A Framework to Analyze Solidity Smart Contracts. In _2020 35th IEEE/ACM International Conference on Automated Software Engineering (ASE)_, 1349–1352.
+\[14\]Christof Ferreira Torres, Mathis Baden, Robert Norvill, Beltran Borja Fiz Pontiveros, Hugo Jonker, and Sjouke Mauw. 2020. &#xc6;GIS: Shielding Vulnerable Smart Contracts Against Attacks. In _Proceedings of the 15th ACM Asia Conference on Computer and Communications Security_ (ASIA CCS ’20), Association for Computing Machinery, New York, NY, USA, 584–597. DOI:https://doi.org/10.1145/3320269.3384756
 
-\[14\]
+\[15\]Bo Gao, Ling Shi, Jiaying Li, Jialiang Chang, Jun Sun, and Zijiang Yang. 2021. sVerify: Verifying Smart Contracts Through Lazy Annotation and Learning. In _Leveraging Applications of Formal Methods, Verification and Validation_ (Lecture Notes in Computer Science), Springer International Publishing, Cham, 453–469. DOI:https://doi.org/10.1007/978-3-030-89159-6\_28
 
-Christof Ferreira Torres, Mathis Baden, Robert Norvill, Beltran Borja Fiz Pontiveros, Hugo Jonker, and Sjouke Mauw. 2020. &#xc6;GIS: Shielding Vulnerable Smart Contracts Against Attacks. In _Proceedings of the 15th ACM Asia Conference on Computer and Communications Security_ (ASIA CCS ’20), Association for Computing Machinery, New York, NY, USA, 584–597. DOI:https://doi.org/10.1145/3320269.3384756
+\[16\]Zhipeng Gao. 2020. When deep learning meets smart contracts. In _Proceedings of the 35th IEEE/ACM International Conference on Automated Software Engineering_. Association for Computing Machinery, New York, NY, USA, 1400–1402. Retrieved February 26, 2022 from https://doi.org/10.1145/3324884.3418918
 
-\[15\]
+\[17\]Zhipeng Gao, Vinoj Jayasundara, LingXiao Jiang, Xin Xia, David Lo, and John Grundy. 2019. SmartEmbed: A Tool for Clone and Bug Detection in Smart Contracts through Structural Code Embedding. In _2019 IEEE International Conference on Software Maintenance and Evolution (ICSME)_, 394–397. DOI:https://doi.org/10.1109/ICSME.2019.00067
 
-Bo Gao, Ling Shi, Jiaying Li, Jialiang Chang, Jun Sun, and Zijiang Yang. 2021. sVerify: Verifying Smart Contracts Through Lazy Annotation and Learning. In _Leveraging Applications of Formal Methods, Verification and Validation_ (Lecture Notes in Computer Science), Springer International Publishing, Cham, 453–469. DOI:https://doi.org/10.1007/978-3-030-89159-6\_28
-
-\[16\]
-
-Zhipeng Gao. 2020. When deep learning meets smart contracts. In _Proceedings of the 35th IEEE/ACM International Conference on Automated Software Engineering_. Association for Computing Machinery, New York, NY, USA, 1400–1402. Retrieved February 26, 2022 from https://doi.org/10.1145/3324884.3418918
-
-\[17\]
-
-Zhipeng Gao, Vinoj Jayasundara, LingXiao Jiang, Xin Xia, David Lo, and John Grundy. 2019. SmartEmbed: A Tool for Clone and Bug Detection in Smart Contracts through Structural Code Embedding. In _2019 IEEE International Conference on Software Maintenance and Evolution (ICSME)_, 394–397. DOI:https://doi.org/10.1109/ICSME.2019.00067
-
-\[18\]
-
-Juan Guarnizo, Bithin Alangot, and Pawel Szalachowski. 2020. SmartWitness: A Proactive Software Transparency System using Smart Contracts. In _Proceedings of the 2nd ACM International Symposium on Blockchain and Secure Critical Infrastructure_ (BSCI ’20), Association for Computing Machinery, New York, NY, USA, 117–129. DOI:https://doi.org/10.1145/3384943.3409428
+\[18\]Juan Guarnizo, Bithin Alangot, and Pawel Szalachowski. 2020. SmartWitness: A Proactive Software Transparency System using Smart Contracts. In _Proceedings of the 2nd ACM International Symposium on Blockchain and Secure Critical Infrastructure_ (BSCI ’20), Association for Computing Machinery, New York, NY, USA, 117–129. DOI:https://doi.org/10.1145/3384943.3409428
 
 \[19\]
 
