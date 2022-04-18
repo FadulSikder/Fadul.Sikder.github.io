@@ -6,7 +6,7 @@ collection: portfolio
 
 \[1\]Rachit Agarwal, Tanmay Thapliyal, and Sandeep Kumar Shukla. 2022. Vulnerability and Transaction Behavior Based Detection of Malicious Smart Contracts. In _Cyberspace Safety and Security_ (Lecture Notes in Computer Science), Springer International Publishing, Cham, 79–96. DOI:https://doi.org/10.1007/978-3-030-94029-4\_6
 
-\[2\]Elvira Albert, Jesús Correas, Pablo Gordillo, Guillermo Román-Díez, and Albert Rubio. 2019. SAFEVM: a safety verifier for Ethereum smart contracts. In _Proceedings of the 28th ACM SIGSOFT International Symposium on Software Testing and Analysis_. Association for Computing Machinery, New York, NY, USA, 386–389. Retrieved February 26, 2022 from https://doi.org/10.1145/3293882.3338999
+\[2\]
 
 \[3\]Monika di Angelo and Gernot Salzer. 2019. A Survey of Tools for Analyzing Ethereum Smart Contracts. In _2019 IEEE International Conference on Decentralized Applications and Infrastructures (DAPPCON)_, 69–78. DOI:https://doi.org/10.1109/DAPPCON.2019.00018
 
