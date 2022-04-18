@@ -40,9 +40,7 @@ collection: portfolio
 
 \[18\]Juan Guarnizo, Bithin Alangot, and Pawel Szalachowski. 2020. SmartWitness: A Proactive Software Transparency System using Smart Contracts. In _Proceedings of the 2nd ACM International Symposium on Blockchain and Secure Critical Infrastructure_ (BSCI ’20), Association for Computing Machinery, New York, NY, USA, 117–129. DOI:https://doi.org/10.1145/3384943.3409428
 
-\[19\]
-
-Jingxuan He, Mislav Balunović, Nodar Ambroladze, Petar Tsankov, and Martin Vechev. 2019. Learning to Fuzz from Symbolic Execution with Application to Smart Contracts. In _Proceedings of the 2019 ACM SIGSAC Conference on Computer and Communications Security_ (CCS ’19), Association for Computing Machinery, New York, NY, USA, 531–548. DOI:https://doi.org/10.1145/3319535.3363230
+\[19\]Jingxuan He, Mislav Balunović, Nodar Ambroladze, Petar Tsankov, and Martin Vechev. 2019. Learning to Fuzz from Symbolic Execution with Application to Smart Contracts. In _Proceedings of the 2019 ACM SIGSAC Conference on Computer and Communications Security_ (CCS ’19), Association for Computing Machinery, New York, NY, USA, 531–548. DOI:https://doi.org/10.1145/3319535.3363230
 
 \[20\]Ningyu He, Ruiyi Zhang, Lei Wu, Haoyu Wang, Xiapu Luo, Yao Guo, Ting Yu, and Xuxian Jiang. 2020. Security Analysis of EOSIO Smart Contracts. _arXiv:2003.06568 \[cs\]_ (July 2020). Retrieved February 28, 2022 from http://arxiv.org/abs/2003.06568
 
@@ -96,9 +94,7 @@ Pouyan Momeni, Yu Wang, and Reza Samavi. 2019. Machine Learning Model for Smart 
 
 \[44\]Noama Fatima Samreen and Manar H. Alalfi. 2021. A Survey of Security Vulnerabilities in Ethereum Smart Contracts. _arXiv:2105.06974 \[cs\]_ (May 2021). Retrieved February 28, 2022 from http://arxiv.org/abs/2105.06974
 
-\[45\]
-
-R Sujeetha and C. A. S Deiva Preetha. 2021. A Literature Survey on Smart Contract Testing and Analysis for Smart Contract Based Blockchain Application Development. In _2021 2nd International Conference on Smart Electronics and Communication (ICOSEC)_, 378–385. DOI:https://doi.org/10.1109/ICOSEC51865.2021.9591750
+\[45\]R Sujeetha and C. A. S Deiva Preetha. 2021. A Literature Survey on Smart Contract Testing and Analysis for Smart Contract Based Blockchain Application Development. In _2021 2nd International Conference on Smart Electronics and Communication (ICOSEC)_, 378–385. DOI:https://doi.org/10.1109/ICOSEC51865.2021.9591750
 
 \[46\]Wesley Joon-Wie Tann, Xing Jie Han, Sourav Sen Gupta, and Yew-Soon Ong. 2019. Towards Safer Smart Contracts: A Sequence Learning Approach to Detecting Security Threats. _arXiv:1811.06632 \[cs\]_ (June 2019). Retrieved February 28, 2022 from http://arxiv.org/abs/1811.06632
 
