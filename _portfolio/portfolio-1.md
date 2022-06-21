@@ -129,3 +129,11 @@ collection: portfolio
 \[62\]Teng Zhou, Kui Liu, Li Li, Zhe Liu, Jacques Klein, and Tegawendé F. Bissyandé. 2021. SmartGift: Learning to Generate Practical Inputs for Testing Smart Contracts. In _2021 IEEE International Conference on Software Maintenance and Evolution (ICSME)_, 23–34. DOI:https://doi.org/10.1109/ICSME52107.2021.00009
 
 \[63\]Yuan Zhuang, Zhenguang Liu, Peng Qian, Qi Liu, Xiang Wang, and Qinming He. 2021. Smart contract vulnerability detection using graph neural networks. In _Proceedings of the Twenty-Ninth International Joint Conference on Artificial Intelligence_ (IJCAI’20), Yokohama, Yokohama, Japan, 3283–3290.
+
+\[64\]Albert, Elvira, et al. “Taming Callbacks for Smart Contract Modularity.” Proceedings of the ACM on Programming Languages, vol. 4, no. OOPSLA, Nov. 2020, p. 209:1-209:30. November 2020, https://doi.org/10.1145/3428277.
+
+\[65\]Xue, Yinxing, Mingliang Ma, et al. “Cross-Contract Static Analysis for Detecting Practical Reentrancy Vulnerabilities in Smart Contracts.” Proceedings of the 35th IEEE/ACM International Conference on Automated Software Engineering, Association for Computing Machinery, 2020, pp. 1029–40. ACM Digital Library, https://doi.org/10.1145/3324884.3416553.
+
+\[66\]Xue, Yinxing, Jiaming Ye, et al. “XFuzz: Machine Learning Guided Cross-Contract Fuzzing.” IEEE Transactions on Dependable and Secure Computing, 2022, pp. 1–14. IEEE Xplore, https://doi.org/10.1109/TDSC.2022.3182373.
+
+\[67\]Ye, Jiaming, et al. “Clairvoyance: Cross-Contract Static Analysis for Detecting Practical Reentrancy Vulnerabilities in Smart Contracts.” Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering: Companion Proceedings, Association for Computing Machinery, 2020, pp. 274–75. ACM Digital Library, https://doi.org/10.1145/3377812.3390908.
