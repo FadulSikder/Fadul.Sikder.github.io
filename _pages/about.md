@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,9 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Description
+Hello, my name is Fadul Sikderd. I am a Ph.D. student in the Computer Science and Engineering Department at the University of Texas at Arlington. Currently, I am working under the supervision of Dr. Jeff Lei at Software Engineering Research Group.
 
-
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+My research interests are in the intersection of Software Engineering and Web3, focusing on the security analysis of the blockchain and smart contracts.
