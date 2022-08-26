@@ -41,12 +41,8 @@ collection: portfolio
 * [A guide to smart contract security best practices](https://github.com/ConsenSys/smart-contract-best-practices)
 * [A guide to EOS smart contract security best practices](https://github.com/slowmist/eos-smart-contract-security-best-practices)
 
-# Bug Bounty
-* [Immunefi](https://immunefi.com/explore/)
-* [hackenproof](https://hackenproof.com/)
-* [ETHEREUM Bounty Program](https://bounty.ethereum.org/#bounty-scope)
 
-### Journal list
+# Journal list
 
 * IEEE Transactions on Information Forensics and Security [[web]](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10206)
 * ACM Transactions on Information and System Security[[web]](http://tissec.acm.org/)
