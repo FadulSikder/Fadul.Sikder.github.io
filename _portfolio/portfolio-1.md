@@ -1,4 +1,4 @@
-#Utilizing Large Language Models for the Classification of Security Vulnerabilities in Solidity Code
+# Utilizing Large Language Models for the Classification of Security Vulnerabilities in Solidity Code
 
 ## Motivation 
 Large Language Models (LLMs), with their expansive training on a variety of datasets, have acquired a remarkable capability known as zero-shot learning. This ability enables LLMs to extrapolate from their learned knowledge and make predictions for tasks they have not specifically been trained on. For instance, a text classification model trained on movie and book reviews might be able to classify music reviews, despite not having any labeled music reviews for training. This is possible if the model has developed a sound understanding of what constitutes a 'review' and can infer the characteristics of music reviews from associated metadata.
