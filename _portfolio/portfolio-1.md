@@ -1,3 +1,9 @@
+---
+title: "Security Analysis of Smart Contracts"
+excerpt: "A smart contract is a self-executing contract with the terms of the agreement between buyer and seller being directly written into lines of code. The code is stored on a blockchain across a distributed, decentralized blockchain network. The code controls the execution, and transactions are trackable and irreversible. Because the smart contract is irreversible, we must audit the written program to ensure it is secure. <br/><img src='/images/Smart-Contract-Security-2.jpg' width='700' height='400'>"
+collection: portfolio
+---
+
 # Utilizing Large Language Models for the Classification of Security Vulnerabilities in Solidity Code
 
 ## Motivation 
